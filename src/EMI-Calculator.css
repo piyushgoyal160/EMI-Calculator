@@ -1,0 +1,26 @@
+.outer-div {
+  padding: 2rem;
+  margin: 4rem;
+  gap: 2rem;
+}
+
+.left {
+  background-color: #e7e8ff;
+  padding: 1rem;
+  border-radius: 10px;
+  flex-basis: calc(1 / 2 * 100%);
+}
+
+.inner-left {
+  background-color: white;
+}
+
+.row {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.right {
+  flex-basis: calc(1 / 2 * 100%);
+}
