@@ -50,7 +50,7 @@ export default function EMICalculator() {
               </div>
               <div className="row">
                 <span>Total Amount</span>
-                <span>{emi.loanAmount + interestAmount}</span>
+                <span>{Number(emi.loanAmount) + Number(interestAmount)}</span>
               </div>
             </div>
           </div>
