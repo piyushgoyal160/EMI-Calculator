@@ -31,7 +31,7 @@ export default function EMICalculator() {
   );
 
   return (
-    <div className="outer-div row shadow-md">
+    <div className="outer-div row shadow-lg">
       <div className="left self-stretch">
         <div className="inner-left">
           <div className="flex flex-col justify-between h-full rounded-sm gap-2">

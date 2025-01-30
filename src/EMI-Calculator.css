@@ -1,4 +1,6 @@
 .outer-div {
+  /* height: 600px;
+  width: 90%; */
   padding: 2rem;
   margin: 4rem;
   gap: 2rem;
@@ -13,6 +15,8 @@
 
 .inner-left {
   background-color: white;
+  /* height: 500px;
+  width: 40%; */
 }
 
 .row {
